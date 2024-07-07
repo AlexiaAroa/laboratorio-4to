@@ -1,0 +1,6 @@
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\Ejercicio13ConFunciones\Ejercicio13ConFunciones\bin\Debug\Ejercicio13ConFunciones.exe.config
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\Ejercicio13ConFunciones\Ejercicio13ConFunciones\bin\Debug\Ejercicio13ConFunciones.exe
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\Ejercicio13ConFunciones\Ejercicio13ConFunciones\bin\Debug\Ejercicio13ConFunciones.pdb
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\Ejercicio13ConFunciones\Ejercicio13ConFunciones\obj\Debug\Ejercicio13ConFunciones.csprojResolveAssemblyReference.cache
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\Ejercicio13ConFunciones\Ejercicio13ConFunciones\obj\Debug\Ejercicio13ConFunciones.exe
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\Ejercicio13ConFunciones\Ejercicio13ConFunciones\obj\Debug\Ejercicio13ConFunciones.pdb

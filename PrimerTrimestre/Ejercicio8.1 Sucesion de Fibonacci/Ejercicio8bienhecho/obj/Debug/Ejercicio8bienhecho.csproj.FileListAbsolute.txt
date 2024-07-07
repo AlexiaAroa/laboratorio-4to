@@ -1,0 +1,5 @@
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\Ejercicio8bienhecho\Ejercicio8bienhecho\bin\Debug\Ejercicio8bienhecho.exe.config
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\Ejercicio8bienhecho\Ejercicio8bienhecho\bin\Debug\Ejercicio8bienhecho.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\Ejercicio8bienhecho\Ejercicio8bienhecho\bin\Debug\Ejercicio8bienhecho.pdb
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\Ejercicio8bienhecho\Ejercicio8bienhecho\obj\Debug\Ejercicio8bienhecho.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\Ejercicio8bienhecho\Ejercicio8bienhecho\obj\Debug\Ejercicio8bienhecho.pdb

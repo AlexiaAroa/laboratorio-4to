@@ -1,0 +1,5 @@
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.exe.config
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.exe
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.pdb
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.exe
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.pdb

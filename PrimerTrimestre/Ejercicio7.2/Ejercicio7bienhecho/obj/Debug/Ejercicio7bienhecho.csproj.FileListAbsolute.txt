@@ -1,0 +1,6 @@
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\Ejercicio7bienhecho\Ejercicio7bienhecho\bin\Debug\Ejercicio7bienhecho.exe.config
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\Ejercicio7bienhecho\Ejercicio7bienhecho\bin\Debug\Ejercicio7bienhecho.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\Ejercicio7bienhecho\Ejercicio7bienhecho\bin\Debug\Ejercicio7bienhecho.pdb
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\Ejercicio7bienhecho\Ejercicio7bienhecho\obj\Debug\Ejercicio7bienhecho.csprojResolveAssemblyReference.cache
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\Ejercicio7bienhecho\Ejercicio7bienhecho\obj\Debug\Ejercicio7bienhecho.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\Ejercicio7bienhecho\Ejercicio7bienhecho\obj\Debug\Ejercicio7bienhecho.pdb

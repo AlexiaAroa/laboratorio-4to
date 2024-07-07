@@ -1,0 +1,5 @@
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\Ejercicio16Double\Ejercicio16Double\bin\Debug\Ejercicio16Double.exe.config
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\Ejercicio16Double\Ejercicio16Double\bin\Debug\Ejercicio16Double.exe
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\Ejercicio16Double\Ejercicio16Double\bin\Debug\Ejercicio16Double.pdb
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\Ejercicio16Double\Ejercicio16Double\obj\Debug\Ejercicio16Double.exe
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\Ejercicio16Double\Ejercicio16Double\obj\Debug\Ejercicio16Double.pdb

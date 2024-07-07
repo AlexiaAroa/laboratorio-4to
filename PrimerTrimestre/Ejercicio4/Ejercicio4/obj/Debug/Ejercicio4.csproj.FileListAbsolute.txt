@@ -1,0 +1,6 @@
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.pdb
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csprojResolveAssemblyReference.cache
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb

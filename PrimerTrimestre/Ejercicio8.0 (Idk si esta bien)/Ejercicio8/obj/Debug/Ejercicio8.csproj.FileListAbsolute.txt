@@ -1,0 +1,6 @@
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.pdb
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.pdb
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.csprojResolveAssemblyReference.cache
