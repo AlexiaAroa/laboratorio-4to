@@ -1,0 +1,6 @@
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do_trimestre_ejercicios2POOx\2do_trimestre_ejercicios2POOx\bin\Debug\2do_trimestre_ejercicios2POOx.exe.config
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do_trimestre_ejercicios2POOx\2do_trimestre_ejercicios2POOx\bin\Debug\2do_trimestre_ejercicios2POOx.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do_trimestre_ejercicios2POOx\2do_trimestre_ejercicios2POOx\bin\Debug\2do_trimestre_ejercicios2POOx.pdb
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do_trimestre_ejercicios2POOx\2do_trimestre_ejercicios2POOx\obj\Debug\2do_trimestre_ejercicios2POOx.csprojResolveAssemblyReference.cache
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do_trimestre_ejercicios2POOx\2do_trimestre_ejercicios2POOx\obj\Debug\2do_trimestre_ejercicios2POOx.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do_trimestre_ejercicios2POOx\2do_trimestre_ejercicios2POOx\obj\Debug\2do_trimestre_ejercicios2POOx.pdb

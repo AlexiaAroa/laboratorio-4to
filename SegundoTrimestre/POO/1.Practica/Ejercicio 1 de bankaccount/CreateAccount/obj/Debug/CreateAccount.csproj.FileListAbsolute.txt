@@ -1,0 +1,5 @@
+C:\Users\Alexia Kimberly\Desktop\laboratorio 4to\2018\POO\Starter\CreateAccount\bin\Debug\CreateAccount.exe
+C:\Users\Alexia Kimberly\Desktop\laboratorio 4to\2018\POO\Starter\CreateAccount\bin\Debug\CreateAccount.pdb
+C:\Users\Alexia Kimberly\Desktop\laboratorio 4to\2018\POO\Starter\CreateAccount\obj\Debug\CreateAccount.csprojResolveAssemblyReference.cache
+C:\Users\Alexia Kimberly\Desktop\laboratorio 4to\2018\POO\Starter\CreateAccount\obj\Debug\CreateAccount.exe
+C:\Users\Alexia Kimberly\Desktop\laboratorio 4to\2018\POO\Starter\CreateAccount\obj\Debug\CreateAccount.pdb

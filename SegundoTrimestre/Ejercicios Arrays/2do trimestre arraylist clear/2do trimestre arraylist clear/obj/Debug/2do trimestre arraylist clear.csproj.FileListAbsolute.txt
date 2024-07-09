@@ -1,0 +1,5 @@
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre arraylist clear\2do trimestre arraylist clear\bin\Debug\2do trimestre arraylist clear.exe.config
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre arraylist clear\2do trimestre arraylist clear\bin\Debug\2do trimestre arraylist clear.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre arraylist clear\2do trimestre arraylist clear\bin\Debug\2do trimestre arraylist clear.pdb
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre arraylist clear\2do trimestre arraylist clear\obj\Debug\2do trimestre arraylist clear.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre arraylist clear\2do trimestre arraylist clear\obj\Debug\2do trimestre arraylist clear.pdb

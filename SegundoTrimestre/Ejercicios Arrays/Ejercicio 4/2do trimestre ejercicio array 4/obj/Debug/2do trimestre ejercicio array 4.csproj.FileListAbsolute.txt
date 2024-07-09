@@ -1,0 +1,6 @@
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio array 4\2do trimestre ejercicio array 4\bin\Debug\2do trimestre ejercicio array 4.exe.config
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\2do trimestre ejercicio array 4\2do trimestre ejercicio array 4\bin\Debug\2do trimestre ejercicio array 4.exe
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\2do trimestre ejercicio array 4\2do trimestre ejercicio array 4\bin\Debug\2do trimestre ejercicio array 4.pdb
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\2do trimestre ejercicio array 4\2do trimestre ejercicio array 4\obj\Debug\2do trimestre ejercicio array 4.exe
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\2do trimestre ejercicio array 4\2do trimestre ejercicio array 4\obj\Debug\2do trimestre ejercicio array 4.pdb
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\2do trimestre ejercicio array 4\2do trimestre ejercicio array 4\obj\Debug\2do trimestre ejercicio array 4.csprojResolveAssemblyReference.cache

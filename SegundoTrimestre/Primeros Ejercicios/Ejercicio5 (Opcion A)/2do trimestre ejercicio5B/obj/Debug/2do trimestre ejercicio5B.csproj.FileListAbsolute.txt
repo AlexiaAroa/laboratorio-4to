@@ -1,0 +1,5 @@
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio5B\2do trimestre ejercicio5B\bin\Debug\2do trimestre ejercicio5B.exe.config
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio5B\2do trimestre ejercicio5B\bin\Debug\2do trimestre ejercicio5B.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio5B\2do trimestre ejercicio5B\bin\Debug\2do trimestre ejercicio5B.pdb
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio5B\2do trimestre ejercicio5B\obj\Debug\2do trimestre ejercicio5B.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio5B\2do trimestre ejercicio5B\obj\Debug\2do trimestre ejercicio5B.pdb

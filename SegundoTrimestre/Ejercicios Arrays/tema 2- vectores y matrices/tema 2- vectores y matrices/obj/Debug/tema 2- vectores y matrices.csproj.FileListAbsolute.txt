@@ -1,0 +1,6 @@
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\tema 2- vectores y matrices\tema 2- vectores y matrices\bin\Debug\tema 2- vectores y matrices.exe.config
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\tema 2- vectores y matrices\tema 2- vectores y matrices\bin\Debug\tema 2- vectores y matrices.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\tema 2- vectores y matrices\tema 2- vectores y matrices\bin\Debug\tema 2- vectores y matrices.pdb
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\tema 2- vectores y matrices\tema 2- vectores y matrices\obj\Debug\tema 2- vectores y matrices.csprojResolveAssemblyReference.cache
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\tema 2- vectores y matrices\tema 2- vectores y matrices\obj\Debug\tema 2- vectores y matrices.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\tema 2- vectores y matrices\tema 2- vectores y matrices\obj\Debug\tema 2- vectores y matrices.pdb

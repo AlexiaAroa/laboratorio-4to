@@ -1,0 +1,6 @@
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\matrices\matrices\bin\Debug\matrices.exe.config
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\matrices\matrices\bin\Debug\matrices.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\matrices\matrices\bin\Debug\matrices.pdb
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\matrices\matrices\obj\Debug\matrices.csprojResolveAssemblyReference.cache
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\matrices\matrices\obj\Debug\matrices.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\matrices\matrices\obj\Debug\matrices.pdb

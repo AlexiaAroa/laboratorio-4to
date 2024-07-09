@@ -1,0 +1,5 @@
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio array 10\2do trimestre ejercicio array 10\bin\Debug\2do trimestre ejercicio array 10.exe.config
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio array 10\2do trimestre ejercicio array 10\bin\Debug\2do trimestre ejercicio array 10.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio array 10\2do trimestre ejercicio array 10\bin\Debug\2do trimestre ejercicio array 10.pdb
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio array 10\2do trimestre ejercicio array 10\obj\Debug\2do trimestre ejercicio array 10.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio array 10\2do trimestre ejercicio array 10\obj\Debug\2do trimestre ejercicio array 10.pdb

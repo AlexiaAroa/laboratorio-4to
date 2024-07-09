@@ -1,0 +1,6 @@
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre array list\2do trimestre array list\bin\Debug\2do trimestre array list.exe.config
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre array list\2do trimestre array list\bin\Debug\2do trimestre array list.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre array list\2do trimestre array list\bin\Debug\2do trimestre array list.pdb
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre array list\2do trimestre array list\obj\Debug\2do trimestre array list.csprojResolveAssemblyReference.cache
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre array list\2do trimestre array list\obj\Debug\2do trimestre array list.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre array list\2do trimestre array list\obj\Debug\2do trimestre array list.pdb

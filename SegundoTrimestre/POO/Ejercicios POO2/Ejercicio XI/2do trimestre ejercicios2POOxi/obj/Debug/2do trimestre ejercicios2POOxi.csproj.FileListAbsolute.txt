@@ -1,0 +1,6 @@
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicios2POOxi\2do trimestre ejercicios2POOxi\bin\Debug\2do trimestre ejercicios2POOxi.exe.config
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\2do trimestre ejercicios2POOxi\2do trimestre ejercicios2POOxi\bin\Debug\2do trimestre ejercicios2POOxi.exe
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\2do trimestre ejercicios2POOxi\2do trimestre ejercicios2POOxi\bin\Debug\2do trimestre ejercicios2POOxi.pdb
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\2do trimestre ejercicios2POOxi\2do trimestre ejercicios2POOxi\obj\Debug\2do trimestre ejercicios2POOxi.exe
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\2do trimestre ejercicios2POOxi\2do trimestre ejercicios2POOxi\obj\Debug\2do trimestre ejercicios2POOxi.pdb
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\2do trimestre ejercicios2POOxi\2do trimestre ejercicios2POOxi\obj\Debug\2do trimestre ejercicios2POOxi.csprojResolveAssemblyReference.cache

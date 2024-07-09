@@ -1,0 +1,6 @@
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio matriz 24\2do trimestre ejercicio matriz 24\bin\Debug\2do trimestre ejercicio matriz 24.exe.config
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\2do trimestre ejercicio matriz 24\2do trimestre ejercicio matriz 24\bin\Debug\2do trimestre ejercicio matriz 24.exe
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\2do trimestre ejercicio matriz 24\2do trimestre ejercicio matriz 24\bin\Debug\2do trimestre ejercicio matriz 24.pdb
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\2do trimestre ejercicio matriz 24\2do trimestre ejercicio matriz 24\obj\Debug\2do trimestre ejercicio matriz 24.csprojResolveAssemblyReference.cache
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\2do trimestre ejercicio matriz 24\2do trimestre ejercicio matriz 24\obj\Debug\2do trimestre ejercicio matriz 24.exe
+C:\Users\Alexia Kimberly\Documents\Visual Studio 2015\Projects\2do trimestre ejercicio matriz 24\2do trimestre ejercicio matriz 24\obj\Debug\2do trimestre ejercicio matriz 24.pdb

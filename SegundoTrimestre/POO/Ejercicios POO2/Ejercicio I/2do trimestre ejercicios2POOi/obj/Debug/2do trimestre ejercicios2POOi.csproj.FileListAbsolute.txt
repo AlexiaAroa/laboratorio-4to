@@ -1,0 +1,6 @@
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicios2POOi\2do trimestre ejercicios2POOi\bin\Debug\2do trimestre ejercicios2POOi.exe.config
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicios2POOi\2do trimestre ejercicios2POOi\bin\Debug\2do trimestre ejercicios2POOi.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicios2POOi\2do trimestre ejercicios2POOi\bin\Debug\2do trimestre ejercicios2POOi.pdb
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicios2POOi\2do trimestre ejercicios2POOi\obj\Debug\2do trimestre ejercicios2POOi.csprojResolveAssemblyReference.cache
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicios2POOi\2do trimestre ejercicios2POOi\obj\Debug\2do trimestre ejercicios2POOi.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicios2POOi\2do trimestre ejercicios2POOi\obj\Debug\2do trimestre ejercicios2POOi.pdb

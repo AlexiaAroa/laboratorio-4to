@@ -1,0 +1,5 @@
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre array2 fc\2do trimestre array2 fc\bin\Debug\2do trimestre array2 fc.exe.config
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre array2 fc\2do trimestre array2 fc\bin\Debug\2do trimestre array2 fc.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre array2 fc\2do trimestre array2 fc\bin\Debug\2do trimestre array2 fc.pdb
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre array2 fc\2do trimestre array2 fc\obj\Debug\2do trimestre array2 fc.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre array2 fc\2do trimestre array2 fc\obj\Debug\2do trimestre array2 fc.pdb

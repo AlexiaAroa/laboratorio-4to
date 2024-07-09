@@ -1,0 +1,5 @@
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio matriz 21\2do trimestre ejercicio matriz 21\bin\Debug\2do trimestre ejercicio matriz 21.exe.config
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio matriz 21\2do trimestre ejercicio matriz 21\bin\Debug\2do trimestre ejercicio matriz 21.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio matriz 21\2do trimestre ejercicio matriz 21\bin\Debug\2do trimestre ejercicio matriz 21.pdb
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio matriz 21\2do trimestre ejercicio matriz 21\obj\Debug\2do trimestre ejercicio matriz 21.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio matriz 21\2do trimestre ejercicio matriz 21\obj\Debug\2do trimestre ejercicio matriz 21.pdb

@@ -1,0 +1,6 @@
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio matriz 23\2do trimestre ejercicio matriz 23\bin\Debug\2do trimestre ejercicio matriz 23.exe.config
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio matriz 23\2do trimestre ejercicio matriz 23\bin\Debug\2do trimestre ejercicio matriz 23.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio matriz 23\2do trimestre ejercicio matriz 23\bin\Debug\2do trimestre ejercicio matriz 23.pdb
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio matriz 23\2do trimestre ejercicio matriz 23\obj\Debug\2do trimestre ejercicio matriz 23.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio matriz 23\2do trimestre ejercicio matriz 23\obj\Debug\2do trimestre ejercicio matriz 23.pdb
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio matriz 23\2do trimestre ejercicio matriz 23\obj\Debug\2do trimestre ejercicio matriz 23.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicios3POO18ii\2do trimestre ejercicios3POO18ii\bin\Debug\2do trimestre ejercicios3POO18ii.exe.config
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicios3POO18ii\2do trimestre ejercicios3POO18ii\bin\Debug\2do trimestre ejercicios3POO18ii.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicios3POO18ii\2do trimestre ejercicios3POO18ii\bin\Debug\2do trimestre ejercicios3POO18ii.pdb
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicios3POO18ii\2do trimestre ejercicios3POO18ii\obj\Debug\2do trimestre ejercicios3POO18ii.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicios3POO18ii\2do trimestre ejercicios3POO18ii\obj\Debug\2do trimestre ejercicios3POO18ii.pdb

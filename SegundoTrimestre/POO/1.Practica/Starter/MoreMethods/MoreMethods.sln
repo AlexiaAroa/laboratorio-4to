@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreMethods", "MoreMethods.csproj", "{B0A7A9BB-86BF-4520-B138-0A8C5E7495EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{B0A7A9BB-86BF-4520-B138-0A8C5E7495EF}.Debug.ActiveCfg = Debug|.NET
+		{B0A7A9BB-86BF-4520-B138-0A8C5E7495EF}.Debug.Build.0 = Debug|.NET
+		{B0A7A9BB-86BF-4520-B138-0A8C5E7495EF}.Release.ActiveCfg = Release|.NET
+		{B0A7A9BB-86BF-4520-B138-0A8C5E7495EF}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

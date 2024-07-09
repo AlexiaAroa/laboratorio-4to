@@ -1,0 +1,6 @@
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio matriz 30\2do trimestre ejercicio matriz 30\bin\Debug\2do trimestre ejercicio matriz 30.exe.config
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio matriz 30\2do trimestre ejercicio matriz 30\bin\Debug\2do trimestre ejercicio matriz 30.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio matriz 30\2do trimestre ejercicio matriz 30\bin\Debug\2do trimestre ejercicio matriz 30.pdb
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio matriz 30\2do trimestre ejercicio matriz 30\obj\Debug\2do trimestre ejercicio matriz 30.csprojResolveAssemblyReference.cache
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio matriz 30\2do trimestre ejercicio matriz 30\obj\Debug\2do trimestre ejercicio matriz 30.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre ejercicio matriz 30\2do trimestre ejercicio matriz 30\obj\Debug\2do trimestre ejercicio matriz 30.pdb

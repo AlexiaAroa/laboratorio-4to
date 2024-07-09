@@ -1,0 +1,6 @@
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre array1 fc\2do trimestre array1 fc\bin\Debug\2do trimestre array1 fc.exe.config
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre array1 fc\2do trimestre array1 fc\bin\Debug\2do trimestre array1 fc.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre array1 fc\2do trimestre array1 fc\bin\Debug\2do trimestre array1 fc.pdb
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre array1 fc\2do trimestre array1 fc\obj\Debug\2do trimestre array1 fc.csprojResolveAssemblyReference.cache
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre array1 fc\2do trimestre array1 fc\obj\Debug\2do trimestre array1 fc.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre array1 fc\2do trimestre array1 fc\obj\Debug\2do trimestre array1 fc.pdb

@@ -1,0 +1,6 @@
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre\2do trimestre\bin\Debug\2do trimestre.exe.config
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre\2do trimestre\bin\Debug\2do trimestre.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre\2do trimestre\bin\Debug\2do trimestre.pdb
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre\2do trimestre\obj\Debug\2do trimestre.csprojResolveAssemblyReference.cache
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre\2do trimestre\obj\Debug\2do trimestre.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre\2do trimestre\obj\Debug\2do trimestre.pdb

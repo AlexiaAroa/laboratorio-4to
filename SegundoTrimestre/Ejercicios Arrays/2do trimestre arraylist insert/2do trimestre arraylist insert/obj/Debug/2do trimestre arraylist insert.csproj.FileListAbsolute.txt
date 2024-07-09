@@ -1,0 +1,5 @@
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre arraylist insert\2do trimestre arraylist insert\bin\Debug\2do trimestre arraylist insert.exe.config
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre arraylist insert\2do trimestre arraylist insert\bin\Debug\2do trimestre arraylist insert.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre arraylist insert\2do trimestre arraylist insert\bin\Debug\2do trimestre arraylist insert.pdb
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre arraylist insert\2do trimestre arraylist insert\obj\Debug\2do trimestre arraylist insert.exe
+c:\users\alexia kimberly\documents\visual studio 2015\Projects\2do trimestre arraylist insert\2do trimestre arraylist insert\obj\Debug\2do trimestre arraylist insert.pdb
